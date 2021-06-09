@@ -1,0 +1,15 @@
+C:\Users\renna\source\repos\consultarcep\ConsultarCep.Controle\bin\Debug\ConsultarCep.Controle.dll
+C:\Users\renna\source\repos\consultarcep\ConsultarCep.Controle\bin\Debug\ConsultarCep.Controle.pdb
+C:\Users\renna\source\repos\consultarcep\ConsultarCep.Controle\bin\Debug\ConsultarCep.DTO.dll
+C:\Users\renna\source\repos\consultarcep\ConsultarCep.Controle\bin\Debug\ConsultarCep.Modelo.dll
+C:\Users\renna\source\repos\consultarcep\ConsultarCep.Controle\bin\Debug\Newtonsoft.Json.dll
+C:\Users\renna\source\repos\consultarcep\ConsultarCep.Controle\bin\Debug\RestSharp.dll
+C:\Users\renna\source\repos\consultarcep\ConsultarCep.Controle\bin\Debug\ConsultarCep.DTO.pdb
+C:\Users\renna\source\repos\consultarcep\ConsultarCep.Controle\bin\Debug\ConsultarCep.Modelo.pdb
+C:\Users\renna\source\repos\consultarcep\ConsultarCep.Controle\bin\Debug\Newtonsoft.Json.xml
+C:\Users\renna\source\repos\consultarcep\ConsultarCep.Controle\bin\Debug\RestSharp.xml
+C:\Users\renna\source\repos\consultarcep\ConsultarCep.Controle\obj\Debug\ConsultarCep.Controle.csproj.AssemblyReference.cache
+C:\Users\renna\source\repos\consultarcep\ConsultarCep.Controle\obj\Debug\ConsultarCep.Controle.csproj.CoreCompileInputs.cache
+C:\Users\renna\source\repos\consultarcep\ConsultarCep.Controle\obj\Debug\ConsultarCep.Controle.csproj.CopyComplete
+C:\Users\renna\source\repos\consultarcep\ConsultarCep.Controle\obj\Debug\ConsultarCep.Controle.dll
+C:\Users\renna\source\repos\consultarcep\ConsultarCep.Controle\obj\Debug\ConsultarCep.Controle.pdb

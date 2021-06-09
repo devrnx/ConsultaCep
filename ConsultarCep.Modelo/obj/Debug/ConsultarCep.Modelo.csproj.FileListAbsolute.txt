@@ -1,0 +1,9 @@
+C:\Users\renna\source\repos\consultarcep\ConsultarCep.Modelo\bin\Debug\ConsultarCep.Modelo.dll
+C:\Users\renna\source\repos\consultarcep\ConsultarCep.Modelo\bin\Debug\ConsultarCep.Modelo.pdb
+C:\Users\renna\source\repos\consultarcep\ConsultarCep.Modelo\bin\Debug\RestSharp.dll
+C:\Users\renna\source\repos\consultarcep\ConsultarCep.Modelo\bin\Debug\RestSharp.xml
+C:\Users\renna\source\repos\consultarcep\ConsultarCep.Modelo\obj\Debug\ConsultarCep.Modelo.csproj.AssemblyReference.cache
+C:\Users\renna\source\repos\consultarcep\ConsultarCep.Modelo\obj\Debug\ConsultarCep.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\renna\source\repos\consultarcep\ConsultarCep.Modelo\obj\Debug\ConsultarCep.Modelo.csproj.CopyComplete
+C:\Users\renna\source\repos\consultarcep\ConsultarCep.Modelo\obj\Debug\ConsultarCep.Modelo.dll
+C:\Users\renna\source\repos\consultarcep\ConsultarCep.Modelo\obj\Debug\ConsultarCep.Modelo.pdb
