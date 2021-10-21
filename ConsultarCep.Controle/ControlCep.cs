@@ -10,13 +10,12 @@ namespace ConsultarCep.Controle {
         public void GerarRest(string cep) {
             string responseContentGet = rest.GerarToken(cep);
 
-            ReturnCep dados = JsonConvert.DeserializeObject<ReturnCep>(responseContentGet);
-
-            if (dados != null) {
+            if (responseContentGet != null) {
+                ReturnCep dados = JsonConvert.DeserializeObject<ReturnCep>(responseContentGet);
                 Console.WriteLine($"\nLogradouro: {dados.logradouro}\nBairro: {dados.bairro}\nLocalidade: {dados.localidade}\nUF: {dados.uf}\nDDD: {dados.ddd}");
             }
             else {
-                Console.WriteLine("\nDATA INVÁLIDA");
+                Console.WriteLine("\nCEP INVÁLIDO");
             }
 
         }

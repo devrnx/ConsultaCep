@@ -4,3 +4,9 @@ C:\Users\renna\source\repos\consultarcep\ConsultarCep.DTO\obj\Debug\ConsultarCep
 C:\Users\renna\source\repos\consultarcep\ConsultarCep.DTO\obj\Debug\ConsultarCep.DTO.csproj.CoreCompileInputs.cache
 C:\Users\renna\source\repos\consultarcep\ConsultarCep.DTO\obj\Debug\ConsultarCep.DTO.dll
 C:\Users\renna\source\repos\consultarcep\ConsultarCep.DTO\obj\Debug\ConsultarCep.DTO.pdb
+C:\Users\renna\source\repos\Projetos\ConsultaCep\ConsultarCep.DTO\bin\Debug\ConsultarCep.DTO.dll
+C:\Users\renna\source\repos\Projetos\ConsultaCep\ConsultarCep.DTO\bin\Debug\ConsultarCep.DTO.pdb
+C:\Users\renna\source\repos\Projetos\ConsultaCep\ConsultarCep.DTO\obj\Debug\ConsultarCep.DTO.csproj.AssemblyReference.cache
+C:\Users\renna\source\repos\Projetos\ConsultaCep\ConsultarCep.DTO\obj\Debug\ConsultarCep.DTO.csproj.CoreCompileInputs.cache
+C:\Users\renna\source\repos\Projetos\ConsultaCep\ConsultarCep.DTO\obj\Debug\ConsultarCep.DTO.dll
+C:\Users\renna\source\repos\Projetos\ConsultaCep\ConsultarCep.DTO\obj\Debug\ConsultarCep.DTO.pdb
